@@ -27,6 +27,7 @@ namespace DegerVeReferansTipler
 
             Console.WriteLine(sayılar1[0]);
 
+
         }
     }
 }
