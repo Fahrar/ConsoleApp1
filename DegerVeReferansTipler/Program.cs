@@ -26,6 +26,7 @@ namespace DegerVeReferansTipler
             sayılar2[0] = 999;
 
             Console.WriteLine(sayılar1[0]);
+
         }
     }
 }
